@@ -92,6 +92,40 @@
 |                | 0.0.0.0/0 via 192.199.9.3            |
 | The Queen      | 0.0.0.0/0 via 192.199.9.1            |
 
-- **Percobaan testing**
+- **Percobaan Testing**
 
 ![](./coba.jpg)
+
+## CIDR
+
+- **penggabungan IP Node**
+
+1. Kondisi awal
+   ![](./CIdr_awal.jpg)
+
+2. Iterasi pertama, penggabungan node cabang terjauh dengan terdekatnya
+   ![](./Cidr_1.jpg)
+
+3. Iterasi kedua, penggabungan ke node terdekat
+   ![](./Cidr_2.jpg)
+
+4. Iterasi ketiga
+   ![](./Cidr_3.jpg)
+
+5. Iterasi Keempat
+   ![](./Cidr_4.jpg)
+
+6. Iterasi Kelima
+   ![](./Cidr_5.jpg)
+
+7. Iterasi Keenam
+   ![](./Cidr_6.jpg)
+
+8. Iterasi Ketujuh
+   ![](./Cidr_7.jpg)
+
+9. Iterasi Kedelapan
+   ![](./Cidr_8.jpg)
+
+- \*_Pohon IP CIDR_
+  ![](./pohon_cidr.jpg)
