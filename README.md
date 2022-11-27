@@ -110,22 +110,22 @@
    ![](./Cidr_2.jpg)
 
 4. Iterasi ketiga
-   ![](./Cidr_3.jpg)
+   ![](./cidr_3.jpg)
 
 5. Iterasi Keempat
-   ![](./Cidr_4.jpg)
+   ![](./cidr_4.jpg)
 
 6. Iterasi Kelima
-   ![](./Cidr_5.jpg)
+   ![](./cidr_5.jpg)
 
 7. Iterasi Keenam
-   ![](./Cidr_6.jpg)
+   ![](./cidr_6.jpg)
 
 8. Iterasi Ketujuh
-   ![](./Cidr_7.jpg)
+   ![](./cidr_7.jpg)
 
 9. Iterasi Kedelapan
-   ![](./Cidr_8.jpg)
+   ![](./cidr_8.jpg)
 
 - **Pohon IP CIDR**
   ![](./pohon_cidr.jpg)
