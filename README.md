@@ -127,5 +127,5 @@
 9. Iterasi Kedelapan
    ![](./Cidr_8.jpg)
 
-- \*_Pohon IP CIDR_
+- **Pohon IP CIDR**
   ![](./pohon_cidr.jpg)
